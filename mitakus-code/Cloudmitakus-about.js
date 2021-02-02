@@ -13,13 +13,13 @@ texts: [
         },
         {
           title: "Die Herausforderung Lebensmittelabfälle",
-          img: "https://i.ibb.co/mBMDL5N/target.png",
+          img: "https://cdn.jsdelivr.net/gh/romanhubxz/romanhubxz.github.io/mitakus-images/mitakus-cloud/foodwaste.png",
           body:
             "Die FAO (Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen) schätzt, dass rund ein Drittel aller Lebensmittel verloren geht, was 1,3 Mrd. Tonnen entspricht. ",
         },
         {
           title: "Unsere Mission",
-          img: "https://i.ibb.co/4sRK5Vc/Dashboard.png",
+          img: "https://cdn.jsdelivr.net/gh/romanhubxz/romanhubxz.github.io/mitakus-images/mitakus-cloud/food_darkblue.png",
           body:
             "Wir unterstützen die Gastronomie und Lebensmittelindustrie durch maßgeschneiderte Smart Data & KI-Lösungen und verhelfen so zu mehr Profitabilität und Nachhaltigkeit.",
         },
