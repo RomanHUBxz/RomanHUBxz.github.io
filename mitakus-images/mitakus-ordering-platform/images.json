@@ -134,10 +134,14 @@
     },
     "hotdrinks": {
       "lg": [
-        "hotdrinks_lg.jpg"
+        "hotdrinks_lg.jpg",
+        "hotdrinks_lg-1.jpg",
+        "hotdrinks_lg-2.jpg"
       ],
       "sm": [
-        "hotdrinks_sm.jpg"
+        "hotdrinks_sm.jpg",
+        "hotdrinks_sm-1.jpg",
+        "hotdrinks_sm-2.jpg"
       ]
     }
   }
