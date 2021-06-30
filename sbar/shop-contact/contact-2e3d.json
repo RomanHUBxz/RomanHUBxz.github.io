@@ -26,7 +26,7 @@
   "mapImgPath": "shop-contact/map/location-google-maps.png",
   "heroImgPath": "shop-contact/girl-in-nature-background-image.png",
   "successMessage": "Thank you for filling out your information!",
-  "instagramImgPath": "shop-contact/icons/location.svg",
+  "locationImgPath": "shop-contact/icons/location.svg",
   "mailImgPath": "shop-contact/icons/mail.svg",
   "speakerPhoneImgPath": "shop-contact/icons/speaker_phone.svg"
 }
