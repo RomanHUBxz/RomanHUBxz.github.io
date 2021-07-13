@@ -5,5 +5,5 @@
   "yourOrder": "Deine Bestellung",
   "finished": "FERTIG!",
   "heroLunchImgPath": "shop-order-success/table-lunch.png",
-  "happyIconImgPath": "shop-contact/icons/happy-icon.svg"
+  "happyIconImgPath": "shop-order-success/icons/happy-icon.svg"
 }
