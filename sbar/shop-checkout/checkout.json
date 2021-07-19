@@ -1,0 +1,35 @@
+{
+  "orderDetailsTitle": "Gib Deine Bestelldaten an",
+  "selectTime": "Uhrzeit auswählen",
+  "hourOptions": [
+    "01:00Uhr",
+    "01:30Uhr",
+    "02:00Uhr",
+    "02:30Uhr",
+    "03:00Uhr",
+    "03:30Uhr",
+    "04:00Uhr",
+    "04:30Uhr",
+    "05:00Uhr"
+  ],
+  "deliveryMethod": "Selbst abholen oder liefern?",
+  "deliveryMethodforDelivery": "Zum Liefern",
+  "deliveryMethodByMyself": "Ich werde selbst auswählen",
+  "deliveryInfoTitle": "Wohin soll geliefert werden?",
+  "city": "City",
+  "country": "Country",
+  "address": "Address",
+  "plz": "PLZ",
+  "state": "State",
+  "náchricht": "Náchricht",
+  "errorMessage": "Störung: Wir können Ihre Bestellung nicht aufgeben. Bitte prüfen Sie, ob Sie angemeldet sind oder ob alle Felder korrekt ausgefüllt sind.",
+  "order_fields": {
+    "address_city": "München",
+    "address_country": "Germany",
+    "address_line_1": "Address",
+    "address_postal_code": "",
+    "address_state": "Bavaria",
+    "user_comment": "Náchricht"
+  },
+  "orderNowBtnTitle": "BESTÄTIGEN"
+}
