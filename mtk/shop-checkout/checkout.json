@@ -21,7 +21,7 @@
   "address": "Address",
   "plz": "PLZ",
   "state": "State",
-  "nachricht": "Náchricht",
+  "náchricht": "Náchricht",
   "errorMessage": "Störung: Wir können Ihre Bestellung nicht aufgeben. Bitte prüfen Sie, ob Sie angemeldet sind oder ob alle Felder korrekt ausgefüllt sind.",
   "order_fields": {
     "address_city": "München",
