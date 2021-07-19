@@ -19,9 +19,12 @@
   "secondArticleDesc": "Veränderungen funktionieren nur, wenn man den Unterschied gespürt hat. Diese einfache Weisheit greifen die Aktionstage auf: Hier werden unterschiedliche Themen aus dem s.Bar-Gesundheitskonzept zum Mitmachen und Mitspüren aufbereitet, damit alle Mitarbeiter für sich selbst Veränderungen annehmen können. Freiwilligkeit ist hier oberstes Gebot. Das Zentrum aller Maßnahmen ist das Betriebsrestaurant. Hier finden regelmäßig Aktionstage und spannende Informationsveranstaltungen statt. Alle Maßnahmen bauen auf den Themen Wohlbe finden, Ernährung, Bewegung und Umwelt auf.",
   "thirdArticleTitle": "3. s.Bar-Consulting und Coaching",
   "thirdArticleDesc": "Die s.Bar bietet ihr Know-how auch als Consulting- und Coaching-Leistung an. Die s.Bar-Consultants und -Coaches beraten Unternehmen zu den Themen gesunde Führung und Gesundheitskultur als Instrument der Führung – von reiner Beratung für ein attraktiveres Betriebsrestaurant, BGM-Maßnahmen über Gesundheitsevaluationen bis zum Change-Management, das eine leistungsfähige Gesundheitskultur als Ziel hat.",
+  "sBarLogoImgPath":  "shop-about/sbar-logo/sbar-logo.png",
   "manWithFoodImgPath": "shop-about/man-with-food/man-with-food.png",
   "restaurantMenuIconPath": "shop-about/icons/restaurant-menu-icon.svg",
   "chatBubbleIconPath": "shop-about/icons/chat-bubble-icon.svg",
-  "starIconPath": "shop-about/icons/star-icon.svg"
-
+  "starIconPath": "shop-about/icons/star-icon.svg",
+  "businessPeopleImgPath": "shop-about/about-us-articles/business-people.png",
+  "foodOnTheTableImgPath": "shop-about/about-us-articles/food-on-the-table.png",
+  "smallMeetingGroupImgPath": "shop-about/about-us-articles/small-meeting-group.png"
 }
