@@ -6,5 +6,7 @@
   "deliveryTitle": "EINFACH BESTELLEN",
   "deliveryDescFirstPara": "Wählen Sie einfach Ihre Wunschmenüs aus und legen Sie diese in Ihren Warenkorb. In Ihrem Bestellprozess haben Sie die Möglichkeit, zwischen verschiedenen Lieferoptionen und Zahlungsmethoden zu wählen. Der Versand erfolgt durch einen speziell entwickelten Tiefkühlversand, welcher einen sicheren und tiefkühlfrischen Transport gewährleistet.",
   "deliveryDescSecondPara": "Wie einfach Sie sich Ihre Menüs nach Hause liefern lassen können, erfahren Sie auch in diesem Video:",
-  "deliveryVideoButton": "VIDEO ANSEHEN"
+  "deliveryVideoButton": "VIDEO ANSEHEN",
+  "deliveryVideoLink": "https://www.youtube.com/embed/c0VlDOHyEvY",
+  "sBarLogoImgPath":  "shop-delivery/sbar-logo/sbar-logo.png"
 }

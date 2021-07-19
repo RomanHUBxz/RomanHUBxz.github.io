@@ -23,6 +23,7 @@
   "managementPersonMobile": "Mobil: 0172.6175444",
   "managementPersonEmail": "E-mail: monien(at)s-bar.de",
   "mapLink": "https://www.google.com/maps/place/Hermannstra%C3%9Fe+5,+70178+Stuttgart,+Germany/@48.7707612,9.1662977,19.08z/data=!4m5!3m4!1s0x4799db4597d1c307:0xe754f5616b2e9eb0!8m2!3d48.770964!4d9.16617",
+  "sBarLogoImgPath": "shop-contact/sbar-logo/sbar-logo.png",
   "mapImgPath": "shop-contact/map/location-google-maps.png",
   "heroImgPath": "shop-contact/happy-man-on-the-phone.jpg",
   "successMessage": "Thank you for filling out your information!",
