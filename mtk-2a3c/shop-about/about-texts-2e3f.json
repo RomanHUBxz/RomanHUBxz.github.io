@@ -18,5 +18,12 @@
   "secondArticleTitle": "2. Unsere Restaurants",
   "secondArticleDesc": "In unsere hauseigenen Restaurants bieten wir unseren Gästen eine mediterrane Auszeit. Frische selbstgemachte Pasta und ein gemütliches Glas Wein aus dem hauseigenen Weindepot.",
   "thirdArticleTitle": "3. Das Event Catering",
-  "thirdArticleDesc": "Der Bereich des Event-Catering ist unsere Herzensangelegenheit! Unsere Wurzeln liegen hier. Deshalb haben wir für diesen Bereich ein eigenes Unternehmen gegründet, das von Spezialisten geleitet wird. Nach vielen Jahren der Erfahrung können unsere Profis jedes Event verwirklichen: von der großen Geburtstagsfeier, über die klassische Hochzeit bis hin zum Hochglanz-Event der gehobenen Klasse."
+  "thirdArticleDesc": "Der Bereich des Event-Catering ist unsere Herzensangelegenheit! Unsere Wurzeln liegen hier. Deshalb haben wir für diesen Bereich ein eigenes Unternehmen gegründet, das von Spezialisten geleitet wird. Nach vielen Jahren der Erfahrung können unsere Profis jedes Event verwirklichen: von der großen Geburtstagsfeier, über die klassische Hochzeit bis hin zum Hochglanz-Event der gehobenen Klasse.",
+  "manWithFoodImgPath": "shop-about/man-with-food/man-with-food.png",
+  "restaurantMenuIconPath": "shop-about/icons/restaurant-menu-icon.svg",
+  "chatBubbleIconPath": "shop-about/icons/chat-bubble-icon.svg",
+  "starIconPath": "shop-about/icons/star-icon.svg",
+  "businessPeopleImgPath": "shop-about/about-us-articles/business-people.png",
+  "foodOnTheTableImgPath": "shop-about/about-us-articles/food-on-the-table.png",
+  "smallMeetingGroupImgPath": "shop-about/about-us-articles/small-meeting-group.png"
 }

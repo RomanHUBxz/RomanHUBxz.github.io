@@ -12,5 +12,14 @@
   "paymentMethodSecond": "✔ mindestens 1 Gericht in Deinen Warenkorb legst",
   "paymentMethodThird": "✔ einen Mindestbestellwert von 9,99 € einhältst. Nach Auswahl der gewünschten Produkte folge einfach dem Prozess im Checkout. Bei erfolgreicher Bestellung erhältst Du im Anschluss eine Bestätigungs E-Mail von uns.",
   "paymentMethodFourth": "Unsere Bezahlarten:",
-  "paymentMethodSixth": "Für Deine Bestellung bieten wir unterschiedliche Zahlungsarten an: Kreditkarte (Mastercard/Visa), PayPal, Rechnung und Lastschrift. Weitere Informationen findest Du in unseren AGB."
+  "paymentMethodSixth": "Für Deine Bestellung bieten wir unterschiedliche Zahlungsarten an: Kreditkarte (Mastercard/Visa), PayPal, Rechnung und Lastschrift. Weitere Informationen findest Du in unseren AGB.",
+  "serviceFoodIconPath": "shop-delivery/delivery-icons/service-food.svg",
+  "deliveryTruckIconPath": "shop-delivery/delivery-icons/fast-delivery-truck.svg",
+  "tvMonitorIconPath": "shop-delivery/delivery-icons/tv-monitor.svg",
+  "utensilIconPath": "shop-delivery/delivery-icons/plate, fork and knife.svg",
+  "mastercardIconPath": "shop-delivery/banks-icons/mastercard-icon.svg",
+  "paypalIconPath": "shop-delivery/banks-icons/paypal-icon.svg",
+  "visaIconPath": "shop-delivery/banks-icons/visa-icon.svg",
+  "stripeIconPath": "shop-delivery/banks-icons/stripe-icon.svg",
+  "checkoutIconPath": "shop-delivery/banks-icons/2checkout-icon.png"
 }

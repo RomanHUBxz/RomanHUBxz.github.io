@@ -6,5 +6,7 @@
   "deliveryTitle": "EINFACH BESTELLEN",
   "deliveryDescFirstPara": "Wählen Sie einfach Ihre Wunschmenüs und Getränke aus. Während Ihrem Bestellprozess haben Sie die Möglichkeit sich Ihre Bestellung ins Büro oder nach Hause liefern zu lassen, und Sie können das Essen selbst abholen. Sie haben zahlreiche Zahlungsmethoden zur Auswahl.",
   "deliveryDescSecondPara": "Wie einfach Sie sich Ihre Menüs nach Hause liefern lassen können, erfahren Sie auch in diesem Video:",
-  "deliveryVideoButton": "VIDEO ANSEHEN"
+  "deliveryVideoButton": "VIDEO ANSEHEN",
+  "deliveryVideoLink": "https://www.youtube.com/embed/c0VlDOHyEvY",
+  "heroImgPath":  "shop-delivery/hero-image/hero.png"
 }
