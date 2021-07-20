@@ -11,6 +11,5 @@
   "ordersBtn": "BESTELLUNGEN",
   "heroLunchImgPath": "shop-order-success/hero-image/table-lunch.png",
   "happyIconImgPath": "shop-order-success/icons/happy-icon.svg",
-  "lunchFirstImgPath": "shop-order-success/icons/lunch/lunch-first.png",
-  "lunchSecondImgPath": "shop-order-success/icons/lunch/lunch-second.png"
+  "lunchImgPath": "shop-order-success/lunch/lunch-img.jpg"
 }
