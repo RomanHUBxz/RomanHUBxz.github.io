@@ -11,25 +11,5 @@
   "ordersBtn": "BESTELLUNGEN",
   "heroLunchImgPath": "shop-order-success/hero-image/table-lunch.png",
   "happyIconImgPath": "shop-order-success/icons/happy-icon.svg",
-  "lunchImgPath": "shop-order-success/lunch/lunch-img.jpg",
-  "orderTakenImgPath": "shop-order-success/order-icons/order-taken.svg",
-  "orderDeliveryImgPath": "shop-order-success/order-icons/order-delivery.svg",
-  "orderArrivedImgPath": "shop-order-success/order-icons/order-arrived.svg",
-  "items": [
-    {
-      "imgIconPath": "shop-order-success/order-icons/order-taken.svg",
-      "message": "Bestellung aufgenommen",
-      "status": "active"
-    },
-    {
-      "imgIconPath": "shop-order-success/order-icons/order-delivery.svg",
-      "message": "Bestellung auf dem Weg",
-      "status": "active"
-    },
-    {
-      "imgIconPath": "shop-order-success/order-icons/order-arrived.svg",
-      "message": "Bestellung angekommen!",
-      "status": "active"
-    }
-  ]
+  "lunchImgPath": "shop-order-success/lunch/lunch-img.jpg"
 }
