@@ -1,11 +1,10 @@
 {
   "orderConfirmed": "Bestellung bestätigt!",
-  "orderConfirmedDesc":
-    "Sie sind bereit! Das Essen ist auf dem Weg zu Ihnen, also machen Sie einen kleinen Jig, heben Sie Ihre Hände im Erfolg und nehmen Sie sich einen Moment der Dankbarkeit, weil Sie heute etwas Gutes getan haben.",
-  "yourOrder": "Deine Bestellung",
+  "orderConfirmedDesc": "Sie sind bereit! Das Essen ist auf dem Weg zu Ihnen, also machen Sie einen kleinen Jig, heben Sie Ihre Hände im Erfolg und nehmen Sie sich einen Moment der Dankbarkeit, weil Sie heute etwas Gutes getan haben.",
+  "yourOrder": "Aktuelle Bestellungen",
   "produkt": "Produkt",
-  "anzahl":"Anzahl",
-  "preis":"Preis",
+  "anzahl": "Anzahl",
+  "preis": "Preis",
   "total": "Total",
   "backToHomeBtn": "ZURÜCK ZUM SHOP!",
   "ordersBtn": "BESTELLUNGEN",
