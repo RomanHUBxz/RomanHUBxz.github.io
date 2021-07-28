@@ -1,0 +1,8 @@
+{
+  "userEmail": null,
+  "password": null,
+  "login": "Log in",
+  "btnLogin": "LOG IN",
+  "mainLogoImgPath": "shop-login/sbar-logo/sbar-logo.png",
+  "successMessage": "Thank you for filling out your information!"
+}
