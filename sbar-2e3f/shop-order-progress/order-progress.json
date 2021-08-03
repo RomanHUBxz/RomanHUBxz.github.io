@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "imgIconPath": "order-icons/order-taken.svg",
+      "message": "Bestellung aufgenommen",
+      "isDone": true
+    },
+    {
+      "imgIconPath": "order-icons/order-delivery.png",
+      "message": "Bestellung auf dem Weg",
+      "isDone": false
+    },
+    {
+      "imgIconPath": "order-icons/order-arrived.svg",
+      "message": "Bestellung angekommen!",
+      "isDone": false
+    }
+  ]
+}
