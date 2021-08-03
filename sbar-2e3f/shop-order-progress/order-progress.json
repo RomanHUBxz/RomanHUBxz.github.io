@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "imgIconPath": "order-icons/order-taken.svg",
+      "imgIconPath": "shop-order-progress/order-icons/order-taken.svg",
       "message": "Bestellung aufgenommen",
       "isDone": true
     },
     {
-      "imgIconPath": "order-icons/order-delivery.png",
+      "imgIconPath": "shop-order-progress/order-icons/order-delivery.png",
       "message": "Bestellung auf dem Weg",
       "isDone": false
     },
     {
-      "imgIconPath": "order-icons/order-arrived.svg",
+      "imgIconPath": "shop-order-progress/order-icons/order-arrived.svg",
       "message": "Bestellung angekommen!",
       "isDone": false
     }
