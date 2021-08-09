@@ -6,5 +6,6 @@
   "date": "Datum",
   "delivery": "Lieferung",
   "price": "Preis",
-  "details": "DETAILS"
+  "details": "DETAILS",
+  "heroImgPath": "shop-my-orders/hero-my-orders.jpg"
 }

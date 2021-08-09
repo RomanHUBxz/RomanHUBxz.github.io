@@ -8,5 +8,6 @@
   "tel": "Telefonnummer",
   "plz": "PLZ",
   "floor": "Etage",
-  "btnTitle": "BEARBEITEN"
+  "btnTitle": "BEARBEITEN",
+  "heroImgBackgroundPath": "shop-my-profile/profile-img-background.jpg"
 }
