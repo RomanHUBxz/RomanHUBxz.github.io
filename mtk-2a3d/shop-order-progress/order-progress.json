@@ -1,7 +1,7 @@
 {
   "itemsForDelivery": [
     {
-      "imgIconPath": "shop-order-progress/order-icons/order-taken.png",
+      "imgIconPath": "shop-order-progress/order-icons/order-taken.svg",
       "message": "Bestellung aufgenommen"
     },
     {
@@ -13,13 +13,13 @@
       "message": "Bestellung auf dem Weg"
     },
     {
-      "imgIconPath": "shop-order-progress/order-icons/order-arrived.png",
+      "imgIconPath": "shop-order-progress/order-icons/order-arrived.svg",
       "message": "Bestellung angekommen!"
     }
   ],
   "itemsPickByMyself": [
     {
-      "imgIconPath": "shop-order-progress/order-icons/order-taken.png",
+      "imgIconPath": "shop-order-progress/order-icons/order-taken.svg",
       "message": "Bestellung aufgenommen"
     },
     {
