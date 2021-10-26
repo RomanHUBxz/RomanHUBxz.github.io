@@ -1,0 +1,15 @@
+{
+  "orderConfirmed": "Bestellung bestätigt!",
+  "orderConfirmedDesc": "Sie sind bereit! Das Essen ist auf dem Weg zu Ihnen, also machen Sie einen kleinen Jig, heben Sie Ihre Hände im Erfolg und nehmen Sie sich einen Moment der Dankbarkeit, weil Sie heute etwas Gutes getan haben.",
+  "yourOrder": "Aktuelle Bestellungen",
+  "produkt": "Produkt",
+  "anzahl": "Anzahl",
+  "orderFor": "Bestellung für",
+  "preis": "Preis",
+  "total": "Total",
+  "backToHomeBtn": "ZURÜCK ZUM SHOP!",
+  "ordersBtn": "BESTELLUNGEN",
+  "heroLunchImgPath": "shop-order-success/hero-image/table-lunch.png",
+  "happyIconImgPath": "shop-order-success/icons/happy-icon.svg",
+  "lunchImgPath": "shop-order-success/lunch/lunch-img.jpg"
+}

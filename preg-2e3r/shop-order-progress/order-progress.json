@@ -1,0 +1,38 @@
+{
+  "itemsForDelivery": [
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-taken.svg",
+      "message": "Bestellung aufgenommen"
+    },
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-chef-preparing-food.png",
+      "message": "Der koch kocht für dich"
+    },
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-delivery.png",
+      "message": "Bestellung auf dem Weg"
+    },
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-arrived.svg",
+      "message": "Bestellung angekommen!"
+    }
+  ],
+  "itemsPickByMyself": [
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-taken.svg",
+      "message": "Bestellung aufgenommen"
+    },
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-chef-preparing-food.png",
+      "message": "Der koch kocht für dich"
+    },
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-pick-by-myself.png",
+      "message": "Bestellung auf dem Weg"
+    },
+    {
+      "imgIconPath": "shop-order-progress/order-icons/order-done.png",
+      "message": "Bestellung ist fertig"
+    }
+  ]
+}

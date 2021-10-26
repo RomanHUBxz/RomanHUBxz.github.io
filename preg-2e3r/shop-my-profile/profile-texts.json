@@ -1,0 +1,13 @@
+{
+  "profileTitle": "Profil",
+  "firstName": "Vorname",
+  "eMail": "E-Mail",
+  "city": "Stadt",
+  "address": "Adresse",
+  "lastName": "Nachname",
+  "tel": "Telefonnummer",
+  "plz": "PLZ",
+  "floor": "Etage",
+  "btnTitle": "BEARBEITEN",
+  "heroImgBackgroundPath": "shop-my-profile/profile-img-background.jpg"
+}
