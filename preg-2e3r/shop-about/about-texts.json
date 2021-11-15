@@ -5,6 +5,7 @@
   "aboutUsButton": "MEHR ERFAHREN",
   "aboutUsTitle": "ÜBER UNS",
   "aboutUsDescription": "Die Kantine befindet sich im Untergeschoss des Prinzregententheaters (Eingang über den Innenhof) und wird seit September 2013 von Petra Linseisen und ihrem Team betrieben. Die Kantine ist auch für externe Besucher geöffnet. Angeboten werden neben belegten Semmeln, Brezeln, Snacks, Kaffee- und Teespezialitäten auch Hauptspeisen als Mittags-/ Abendmenüs.",
+  "aboutUsDescriptionP2": "",
   "aboutUsListDescriptionFirst": "Qualitätsgarantie",
   "aboutUsListDescriptionSecond": "Täglich wechselnde Speisekarte mit Hauptspeisen internationaler Küche",
   "aboutUsListDescriptionThird": "Vollkost und vegetarische Speisen",
@@ -41,5 +42,6 @@
   "foodOnTheTableImgPath": "shop-about/about-us-articles/food-on-the-table.png",
   "smallMeetingGroupImgPath": "shop-about/about-us-articles/small-meeting-group.png",
   "openHoursImgPath": "shop-about/about-us-articles/open-hours.jpg",
+  "roomImgPath": "shop-about/about-us-articles/room-img.jpg",
   "cateringImgPath": "shop-about/about-us-articles/catering.jpg"
 }
