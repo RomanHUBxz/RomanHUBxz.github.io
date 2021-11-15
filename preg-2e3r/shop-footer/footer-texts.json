@@ -1,9 +1,8 @@
 {
-  "startseite": "Startseite Meine Gastronomie",
+  "startseite": "Home",
   "kontakt": "Kontakt",
   "impressum": "Impressum",
   "datenschutzerklärung": "Datenschutzerklärung",
-  "instagramIconPath": "shop-footer/icons/instagram-logo.svg",
   "facebookIconPath": "shop-footer/icons/facebook_icon.svg",
-  "imgLogoIconPath": "shop-footer/icons/image-logo.svg"
+  "facebookLink": "https://www.facebook.com/Prinzregenten-Kantine-UG-121885775196570/"
 }
