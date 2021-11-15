@@ -34,5 +34,6 @@
   "starIconPath": "shop-about/icons/waiter-icon.png",
   "businessPeopleImgPath": "shop-about/about-us-articles/business-people.png",
   "foodOnTheTableImgPath": "shop-about/about-us-articles/food-on-the-table.png",
-  "smallMeetingGroupImgPath": "shop-about/about-us-articles/small-meeting-group.png"
+  "smallMeetingGroupImgPath": "shop-about/about-us-articles/small-meeting-group.png",
+  "openHoursImgPath": "shop-about/about-us-articles/open-hours.jpg"
 }
