@@ -40,7 +40,8 @@
   "starIconPath": "shop-about/icons/waiter-icon.png",
   "businessPeopleImgPath": "shop-about/about-us-articles/our-portions.jpg",
   "foodOnTheTableImgPath": "shop-about/about-us-articles/food-on-the-table.jpg",
-  "smallMeetingGroupImgPath": "shop-about/about-us-articles/small-meeting-group.jpg",
+  "smallMeetingGroupImgPath": "shop-about/about-us-articles/food-choice.jpg",
+  "tastyFoodImgPath": "shop-about/about-us-articles/tasty-food.jpg",
   "openHoursImgPath": "shop-about/about-us-articles/open-hours.jpg",
   "roomImgPath": "shop-about/about-us-articles/room-img.jpeg",
   "cateringImgPath": "shop-about/about-us-articles/catering.jpg"
