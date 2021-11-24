@@ -3,6 +3,6 @@
   "password": null,
   "login": "Log in",
   "btnLogin": "LOG IN",
-  "mainLogoImgPath": "shop-login/mtk-logo/mtk-logo.png",
+  "mainLogoImgPath": "shop-login/preg-logo/preg-logo.svg",
   "successMessage": "Thank you for filling out your information!"
 }
