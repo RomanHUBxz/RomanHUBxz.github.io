@@ -1,5 +1,5 @@
 {
-  "paymentFailed": "Your Payment Failed!",
-  "paymentDesc": "We are sorry that you could not successfully buy from us!",
-  "paymentBtn": "Try Again!"
+  "paymentFailed": "Ihre Zahlung ist fehlgeschlagen!",
+  "paymentDesc": "Es tut uns leid, dass Sie bei uns nicht erfolgreich einkaufen konnten!",
+  "paymentBtn": "Versuch es noch einmal!"
 }
