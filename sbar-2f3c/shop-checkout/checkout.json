@@ -27,7 +27,7 @@
   "address": "Adresse",
   "plz": "PLZ",
   "state": "Bundesland",
-  "nachricht": "Náchricht",
+  "nachricht": "Nachricht",
   "errorMessage": "Störung: Wir können Ihre Bestellung nicht aufgeben. Bitte prüfen Sie, ob Sie angemeldet sind oder ob alle Felder korrekt ausgefüllt sind.",
   "order_fields": {
     "address_city": "München",
@@ -35,7 +35,7 @@
     "address_line_1": "Adresse",
     "address_postal_code": "",
     "address_state": "Bavaria",
-    "user_comment": "Náchricht"
+    "user_comment": "Nachricht"
   },
   "orderNowBtnTitle": "BESTÄTIGEN"
 }
