@@ -6,7 +6,7 @@
     },
     {
       "imgIconPath": "shop-order-progress/order-icons/order-chef-preparing-food.png",
-      "message": "Der koch kocht für dich"
+      "message": "Deine Bestellung wird vorbereitet"
     },
     {
       "imgIconPath": "shop-order-progress/order-icons/order-delivery.png",
@@ -24,7 +24,7 @@
     },
     {
       "imgIconPath": "shop-order-progress/order-icons/order-chef-preparing-food.png",
-      "message": "Das Essen wird zubereitet"
+      "message": "Dein Essen wird zubereitet"
     },
     {
       "imgIconPath": "shop-order-progress/order-icons/order-pick-by-myself.png",
